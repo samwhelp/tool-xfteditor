@@ -31,5 +31,5 @@ grand_parent: 專案
 
 ## Link
 
-* [Midnight Commander](https://midnight-commander.org/) ([GitHub](https://github.com/MidnightCommander/mc)
+* [Midnight Commander](https://midnight-commander.org/) ([GitHub](https://github.com/MidnightCommander/mc))
 * Wiki / [Midnight Commander](https://en.wikipedia.org/wiki/Midnight_Commander)
