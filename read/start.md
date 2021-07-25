@@ -17,7 +17,7 @@ has_children: false
 1. 開啟檔案管理器，例如使用 `thunar`
 2. 點選某個檔案
 3. 滑鼠右鍵，選擇開啟使用「Xftvim」，
-4. 就會開啟 xfce4-terminal，並且開啟新的分頁，並且使用「vim」開啟該檔案。
+4. 就會開啟「xfce4-terminal」，並且開啟新的分頁，並且使用「vim」開啟該檔案。
 
 ## 實做簡述
 
@@ -42,3 +42,13 @@ xfce4-terminal --tab --command="vi $HOME/.bashrc"
 將這個檔案，[安裝](https://github.com/samwhelp/tool-xfteditor/blob/gh-pages/_demo/project/xfteditor/prototype/xftvim/Makefile#L19)到「/usr/share/applications/xftvim.desktop」這個路徑。
 
 這樣在「檔案管理器」就可以使用滑鼠右鍵，開啟選單，選擇使用「Xftvim」開啟某個檔案。
+
+
+## 後續
+
+所以根據這個模式，針對不同的「文字編輯器」，產生相對應的「[輔助工具](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/)」。
+
+另外有一個工具「[xfted](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xfted.html)」，是可以設定環境變數「EDITOR」，就會依據該設定，使用不同的文字編輯器
+
+另外有一個工具「[xftt](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftt.html)」，則是搭配「檔案管理器」用來在同一個「xfce4-terminal」開啟新「Tab」，
+並且切換到相對應的資料夾。
