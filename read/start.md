@@ -60,7 +60,9 @@ xfce4-terminal --tab --command="vi $HOME/.bashrc"
 
 舉例:「thunar」放上方，「xfce4-terminal」放下方。
 
-或是在「xfce4」，除了可以用「滑鼠拖曳」來「平舖視窗」，
+我最近在使用的「平舖視窗管理器」是「[herbstluftwm](https://samwhelp.github.io/note-about-herbstluftwm/)」。
+
+或是在「xfce4」這個環境，除了可以用「滑鼠拖曳」來「平舖視窗」，
 
 也可以使用「鍵盤按鍵組合」來「平舖視窗」
 
