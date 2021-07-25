@@ -2,7 +2,7 @@
 title: xftnano
 nav_order: 8014
 has_children: false
-parent: xft-editor
+parent: xfteditor
 grand_parent: 專案
 ---
 
@@ -11,7 +11,7 @@ grand_parent: 專案
 
 ## 專案連結 
 
-* [prototype-xftnano](https://github.com/samwhelp/tool-xfteditor/tree/gh-pages/_demo/project/xft-editor/prototype/xftnano)
+* [prototype-xftnano](https://github.com/samwhelp/tool-xfteditor/tree/gh-pages/_demo/project/xfteditor/prototype/xftnano)
 
 
 ## 使用說明

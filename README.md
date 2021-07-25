@@ -26,7 +26,7 @@
 | [xftnano](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftnano) |
 | [xftne](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftne) |
 | [xftemacs](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftemacs) |
-| [xftmcedit](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftmcedit) |
+| [xftmced](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftmced) |
 
 ### 按鍵綁定
 

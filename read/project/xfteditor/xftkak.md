@@ -2,7 +2,7 @@
 title: xftkak
 nav_order: 8013
 has_children: false
-parent: xft-editor
+parent: xfteditor
 grand_parent: 專案
 ---
 
@@ -11,7 +11,7 @@ grand_parent: 專案
 
 ## 專案連結 
 
-* [prototype-xftkak](https://github.com/samwhelp/tool-xfteditor/tree/gh-pages/_demo/project/xft-editor/prototype/xftkak)
+* [prototype-xftkak](https://github.com/samwhelp/tool-xfteditor/tree/gh-pages/_demo/project/xfteditor/prototype/xftkak)
 
 
 ## 使用說明

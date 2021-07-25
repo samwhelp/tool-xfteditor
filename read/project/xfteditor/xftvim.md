@@ -2,7 +2,7 @@
 title: xftvim
 nav_order: 8011
 has_children: false
-parent: xft-editor
+parent: xfteditor
 grand_parent: 專案
 ---
 
@@ -11,7 +11,7 @@ grand_parent: 專案
 
 ## 專案連結 
 
-* [prototype-xftvim](https://github.com/samwhelp/tool-xfteditor/tree/gh-pages/_demo/project/xft-editor/prototype/xftvim)
+* [prototype-xftvim](https://github.com/samwhelp/tool-xfteditor/tree/gh-pages/_demo/project/xfteditor/prototype/xftvim)
 
 
 ## 使用說明

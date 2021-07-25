@@ -24,7 +24,11 @@ parent: 專案
 | [xftnano](xftnano) |
 | [xftne](xftne) |
 | [xftemacs](xftemacs) |
-| [xftmcedit](xftmcedit) |
+| [xftmced](xftmced) |
+
+## 相關筆記
+
+* Manjaro 探索筆記 / [xfce4-terminal](https://samwhelp.github.io/note-about-manjaro/read/adjustment/tool/xfce4-terminal.html)
 
 ## 按鍵綁定 (xfce4-terminal)
 

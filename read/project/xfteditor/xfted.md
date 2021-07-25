@@ -2,7 +2,7 @@
 title: xfted
 nav_order: 8002
 has_children: false
-parent: xft-editor
+parent: xfteditor
 grand_parent: 專案
 ---
 
@@ -11,7 +11,7 @@ grand_parent: 專案
 
 ## 專案連結
 
-* [prototype-xfted](https://github.com/samwhelp/tool-xfteditor/tree/gh-pages/_demo/project/xft-editor/prototype/xfted)
+* [prototype-xfted](https://github.com/samwhelp/tool-xfteditor/tree/gh-pages/_demo/project/xfteditor/prototype/xfted)
 
 
 ## 使用說明

@@ -2,7 +2,7 @@
 title: xftmicro
 nav_order: 8012
 has_children: false
-parent: xft-editor
+parent: xfteditor
 grand_parent: 專案
 ---
 
@@ -11,7 +11,7 @@ grand_parent: 專案
 
 ## 專案連結 
 
-* [prototype-xftmicro](https://github.com/samwhelp/tool-xfteditor/tree/gh-pages/_demo/project/xft-editor/prototype/xftmicro)
+* [prototype-xftmicro](https://github.com/samwhelp/tool-xfteditor/tree/gh-pages/_demo/project/xfteditor/prototype/xftmicro)
 
 
 ## 使用說明
