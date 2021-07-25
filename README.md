@@ -32,4 +32,4 @@
 
 | 議題 |
 | --- |
-| [xfce4-terminal](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/#) |
+| [xfce4-terminal](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/#%E6%8C%89%E9%8D%B5%E7%B6%81%E5%AE%9A-xfce4-terminal) |
