@@ -52,3 +52,35 @@ xfce4-terminal --tab --command="vi $HOME/.bashrc"
 
 另外有一個工具「[xftt](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftt.html)」，則是搭配「檔案管理器」用來在同一個「xfce4-terminal」開啟新「Tab」，
 並且切換到相對應的資料夾。
+
+
+## 平舖視窗
+
+這個模式，可以搭配「平舖視窗管理器」，可以分割上下兩部份，或是分割左右兩部份，
+
+舉例:「thunar」放上方，「xfce4-terminal」放下方。
+
+或是在「xfce4」，除了可以用「滑鼠拖曳」來「平舖視窗」，
+
+也可以使用「鍵盤按鍵組合」來「平舖視窗」
+
+可以參考我的設定
+
+* Manjaro / [xfce4-keyboard-shortcuts.xml](https://github.com/samwhelp/note-about-manjaro/blob/gh-pages/_demo/adjustment/full/xfce/config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L189)
+* Ubuntu 20.04 / [xfce4-keyboard-shortcuts.xml](https://github.com/samwhelp/play-ubuntu-20.04-plan/blob/master/prototype/xfce/config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml#L183)
+
+``` xml
+<property name="&lt;Shift&gt;&lt;Alt&gt;k" type="string" value="tile_up_left_key"/>
+<property name="&lt;Shift&gt;&lt;Alt&gt;j" type="string" value="tile_up_right_key"/>
+<property name="&lt;Shift&gt;&lt;Alt&gt;h" type="string" value="tile_down_left_key"/>
+<property name="&lt;Shift&gt;&lt;Alt&gt;l" type="string" value="tile_down_right_key"/>
+<property name="&lt;Primary&gt;&lt;Alt&gt;k" type="string" value="tile_up_key"/>
+<property name="&lt;Primary&gt;&lt;Alt&gt;j" type="string" value="tile_down_key"/>
+<property name="&lt;Primary&gt;&lt;Alt&gt;h" type="string" value="tile_left_key"/>
+<property name="&lt;Primary&gt;&lt;Alt&gt;l" type="string" value="tile_right_key"/>
+```
+
+按鍵組合表格說明，請參考
+
+* Manjaro 探索筆記 / [xfce4 keybind](https://github.com/samwhelp/note-about-manjaro/blob/gh-pages/_demo/adjustment/full/xfce/spec-keybind.md#window-tiling-move--side)
+* Ubuntu 20.4 / [xfce4 keybind](https://github.com/samwhelp/play-ubuntu-20.04-plan/blob/master/prototype/xfce/spec-keybind.md#window-tiling-move--side)
