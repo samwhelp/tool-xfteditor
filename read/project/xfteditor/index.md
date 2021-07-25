@@ -10,7 +10,7 @@ parent: 專案
 
 ## 專案連結
 
-* [xfteditor](https://github.com/samwhelp/tool-xfteditor/tree/gh-pages/_demo/project/xfteditor/)
+* [xfteditor](https://github.com/samwhelp/tool-xfteditor/tree/gh-pages/_demo/project/xfteditor/prototype)
 
 ## 工具
 
