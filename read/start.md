@@ -1,7 +1,7 @@
 ---
 title: 緣起
 nav_order: 1
-has_children: true
+has_children: false
 ---
 
 # 緣起
