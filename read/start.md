@@ -6,7 +6,7 @@ has_children: false
 
 # 緣起
 
-以前發現用「mousepad」開啟檔案，若陸續開啟檔案，則會在「mousepad」開啟新的「Tab」，
+以前發現用「mousepad」開啟檔案，若陸續開啟檔案，則會在同一個「mousepad」開啟新的「Tab」，
 
 後來發現原來「[xfce4-terminal](https://man.archlinux.org/man/xfce4-terminal.1.en#Window_or_Tab_Separators)」，有一個「--tab」的參數可以下，
 
