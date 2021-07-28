@@ -17,12 +17,12 @@ help:
 .PHONY: help
 
 
-install: install-xftt install-xfted install-xftvim install-xftmicro install-xftkak install-xftnano install-xftne install-xftemacs install-xftmced install-xftlvim
+install: install-xftt install-xfted install-xftvim install-xftnvim install-xftlvim install-xftmicro install-xftkak install-xftnano install-xftne install-xftemacs install-xftmced
 
 .PHONY: install
 
 
-remove: remove-xftt remove-xfted remove-xftvim remove-xftmicro remove-xftkak remove-xftnano remove-xftne remove-xftemacs remove-xftmced remove-xftlvim
+remove: remove-xftt remove-xfted remove-xftvim remove-xftnvim remove-xftlvim remove-xftmicro remove-xftkak remove-xftnano remove-xftne remove-xftemacs remove-xftmced
 
 .PHONY: remove
 
@@ -52,6 +52,24 @@ install-xftvim:
 remove-xftvim:
 	make -C xftvim remove
 .PHONY: remove-xftvim
+
+
+install-xftnvim:
+	make -C xftnvim install
+.PHONY: install-xftnvim
+
+remove-xftnvim:
+	make -C xftnvim remove
+.PHONY: remove-xftnvim
+
+
+install-xftlvim:
+	make -C xftlvim install
+.PHONY: install-xftlvim
+
+remove-xftlvim:
+	make -C xftlvim remove
+.PHONY: remove-xftlvim
 
 
 install-xftmicro:
@@ -106,12 +124,3 @@ install-xftmced:
 remove-xftmced:
 	make -C xftmced remove
 .PHONY: remove-xftmced
-
-
-install-xftlvim:
-	make -C xftlvim install
-.PHONY: install-xftlvim
-
-remove-xftlvim:
-	make -C xftlvim remove
-.PHONY: remove-xftlvim

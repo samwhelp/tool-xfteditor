@@ -27,3 +27,8 @@ grand_parent: 專案
 
 1. 開啟 `xfce4-terminal`
 2. 執行 `xftvim file`, 就會開啟新的分頁，並且使用「vim」開啟該檔案
+
+
+## Link
+
+* [Vim](https://www.vim.org/)

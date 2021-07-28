@@ -19,13 +19,14 @@ parent: 專案
 | [xftt](xftt) |
 | [xfted](xfted) |
 | [xftvim](xftvim) |
+| [xftlvim](xftlvim) |
 | [xftmicro](xftmicro) |
 | [xftkak](xftkak) |
 | [xftnano](xftnano) |
 | [xftne](xftne) |
 | [xftemacs](xftemacs) |
 | [xftmced](xftmced) |
-| [xftlvim](xftlvim) |
+
 
 ## 相關筆記
 
