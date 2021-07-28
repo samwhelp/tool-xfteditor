@@ -16,18 +16,20 @@
 
 ### 專案
 
-| 工具 |
-| --- |
-| [xftt](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftt) |
-| [xfted](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xfted) |
-| [xftvim](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftvim) |
-| [xftmicro](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftmicro) |
-| [xftkak](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftkak) |
-| [xftnano](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftnano) |
-| [xftne](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftne) |
-| [xftemacs](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftemacs) |
-| [xftmced](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftmced) |
-| [xftlvim](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftlvim) |
+應用「xfce4-terminal --tab」這個功能，衍生的輔助工具
+
+| 工具 | For Editor |
+| --- | --- |
+| [xftt](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftt) | 開啟新Tab，切換到指定資料夾 |
+| [xfted](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xfted) | 根據「EDITOR」的設定 |
+| [xftvim](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftvim) | [vim](https://www.vim.org/) or [nvim](https://neovim.io/) |
+| [xftlvim](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftlvim) | [lvim](https://github.com/ChristianChiarulli/LunarVim) |
+| [xftmicro](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftmicro) | [micro](https://micro-editor.github.io/) |
+| [xftkak](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftkak) | [kak](https://kakoune.org/) |
+| [xftnano](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftnano) | [nano](https://www.nano-editor.org/) |
+| [xftne](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftne) | [ne](http://ne.di.unimi.it/) |
+| [xftemacs](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftemacs) | [emacs](https://www.gnu.org/software/emacs/) |
+| [xftmced](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftmced) | [mcedit](https://midnight-commander.org/) |
 
 
 ### 按鍵綁定
