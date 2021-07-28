@@ -14,3 +14,4 @@
 | [xftne](prototype/xftne) |
 | [xftemacs](prototype/xftemacs) |
 | [xftmced](prototype/xftmced) |
+| [xftlvim](prototype/xftlvim) |

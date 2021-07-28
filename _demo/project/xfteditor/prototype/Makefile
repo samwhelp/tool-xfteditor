@@ -17,12 +17,12 @@ help:
 .PHONY: help
 
 
-install: install-xftt install-xfted install-xftvim install-xftmicro install-xftkak install-xftnano install-xftne install-xftemacs install-xftmced
+install: install-xftt install-xfted install-xftvim install-xftmicro install-xftkak install-xftnano install-xftne install-xftemacs install-xftmced install-xftlvim
 
 .PHONY: install
 
 
-remove: remove-xftt remove-xfted remove-xftvim remove-xftmicro remove-xftkak remove-xftnano remove-xftne remove-xftemacs remove-xftmced
+remove: remove-xftt remove-xfted remove-xftvim remove-xftmicro remove-xftkak remove-xftnano remove-xftne remove-xftemacs remove-xftmced remove-xftlvim
 
 .PHONY: remove
 
@@ -106,3 +106,12 @@ install-xftmced:
 remove-xftmced:
 	make -C xftmced remove
 .PHONY: remove-xftmced
+
+
+install-xftlvim:
+	make -C xftlvim install
+.PHONY: install-xftlvim
+
+remove-xftlvim:
+	make -C xftlvim remove
+.PHONY: remove-xftlvim
