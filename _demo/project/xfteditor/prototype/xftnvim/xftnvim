@@ -17,9 +17,9 @@ util_error_echo () {
 	echo "$@" 1>&2
 }
 
-xftvim_main () {
+xftnvim_main () {
 
-	local editor='vim'
+	local editor='nvim'
 	local target_path="$1"
 	local file_path
 	local file_name
@@ -84,4 +84,4 @@ xftvim_main () {
 
 }
 
-xftvim_main "$@"
+xftnvim_main "$@"
