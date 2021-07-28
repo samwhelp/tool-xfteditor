@@ -33,3 +33,4 @@ Application for「xfce4-terminal --tab」
 | [xftne](xftne) | [ne](http://ne.di.unimi.it/) |
 | [xftemacs](xftemacs) | [emacs](https://www.gnu.org/software/emacs/) |
 | [xftmced](xftmced) | [mcedit](https://midnight-commander.org/) |
+| [xftlvim](xftlvim) | [lvim](https://github.com/ChristianChiarulli/LunarVim) |
