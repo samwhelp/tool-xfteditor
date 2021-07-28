@@ -25,6 +25,7 @@ parent: 專案
 | [xftne](xftne) |
 | [xftemacs](xftemacs) |
 | [xftmced](xftmced) |
+| [xftlvim](xftlvim) |
 
 ## 相關筆記
 

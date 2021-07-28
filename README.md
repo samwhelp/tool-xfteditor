@@ -27,6 +27,8 @@
 | [xftne](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftne) |
 | [xftemacs](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftemacs) |
 | [xftmced](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftmced) |
+| [xftlvim](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftlvim) |
+
 
 ### 按鍵綁定
 
