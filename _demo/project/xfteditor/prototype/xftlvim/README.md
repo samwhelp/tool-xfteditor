@@ -4,9 +4,8 @@
 
 ## Target Editor
 
-* [lvim-editor](https://lvim-editor.github.io/) ([GitHub](https://github.com/lvim-editor)
-* [https://github.com/zyedidia/lvim](https://github.com/zyedidia/lvim)
-* Manjaro 探索筆記 / [lvim](https://samwhelp.github.io/note-about-manjaro/read/adjustment/tool/lvim.html)
+* [LunarVim](https://github.com/ChristianChiarulli/LunarVim)
+* nvim 探索筆記 / [LunarVim](https://samwhelp.github.io/note-about-nvim/read/case/lunarvim.html)
 
 
 
