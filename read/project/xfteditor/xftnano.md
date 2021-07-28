@@ -1,6 +1,6 @@
 ---
 title: xftnano
-nav_order: 8014
+nav_order: 8023
 has_children: false
 parent: xfteditor
 grand_parent: 專案
@@ -9,7 +9,7 @@ grand_parent: 專案
 # xftnano
 
 
-## 專案連結 
+## 專案連結
 
 * [prototype-xftnano](https://github.com/samwhelp/tool-xfteditor/tree/gh-pages/_demo/project/xfteditor/prototype/xftnano)
 
@@ -18,7 +18,7 @@ grand_parent: 專案
 
 ### 搭配檔案管理器
 
-1. 開啟檔案管理器，例如使用 `thunar` 
+1. 開啟檔案管理器，例如使用 `thunar`
 2. 點選某個檔案
 3. 滑鼠右鍵，選擇開啟使用「Xftnano」，
 4. 就會開啟 xfce4-terminal，並且開啟新的分頁，並且使用「[nano](https://www.nano-editor.org/)」開啟該檔案

@@ -1,6 +1,6 @@
 ---
 title: xftnvim
-nav_order: 8018
+nav_order: 8012
 has_children: false
 parent: xfteditor
 grand_parent: 專案

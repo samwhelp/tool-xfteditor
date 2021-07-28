@@ -1,6 +1,6 @@
 ---
 title: xftmicro
-nav_order: 8012
+nav_order: 8021
 has_children: false
 parent: xfteditor
 grand_parent: 專案
@@ -9,7 +9,7 @@ grand_parent: 專案
 # xftmicro
 
 
-## 專案連結 
+## 專案連結
 
 * [prototype-xftmicro](https://github.com/samwhelp/tool-xfteditor/tree/gh-pages/_demo/project/xfteditor/prototype/xftmicro)
 
@@ -18,7 +18,7 @@ grand_parent: 專案
 
 ### 搭配檔案管理器
 
-1. 開啟檔案管理器，例如使用 `thunar` 
+1. 開啟檔案管理器，例如使用 `thunar`
 2. 點選某個檔案
 3. 滑鼠右鍵，選擇開啟使用「Xftmicro」，
 4. 就會開啟 xfce4-terminal，並且開啟新的分頁，並且使用「[micro](https://micro-editor.github.io/)」開啟該檔案

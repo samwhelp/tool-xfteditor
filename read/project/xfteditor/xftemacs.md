@@ -1,6 +1,6 @@
 ---
 title: xftemacs
-nav_order: 8016
+nav_order: 8025
 has_children: false
 parent: xfteditor
 grand_parent: 專案
