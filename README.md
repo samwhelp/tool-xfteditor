@@ -32,7 +32,6 @@
 | [xftemacs](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftemacs) | [emacs](https://www.gnu.org/software/emacs/) |
 | [xftmced](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftmced) | [mcedit](https://midnight-commander.org/) |
 
-
 ### 按鍵綁定
 
 | 議題 |
