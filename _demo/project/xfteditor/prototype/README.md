@@ -26,6 +26,7 @@ Application for「xfce4-terminal --tab」
 | --- | --- |
 | [xftt](xftt) | Open New Tab, cd Dir |
 | [xfted](xfted) | Open New Tab, Then `$EDITOR file`  |
+| [xftvi](xftvi) | Open New Tab, Then `vi file`) |
 | [xftvim](xftvim) | [vim](https://www.vim.org/) |
 | [xftnvim](xfntvim) | [nvim](https://neovim.io/) |
 | [xftlvim](xftlvim) | [lvim](https://github.com/ChristianChiarulli/LunarVim) |

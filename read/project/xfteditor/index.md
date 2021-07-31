@@ -18,6 +18,7 @@ parent: 專案
 | --- |
 | [xftt](xftt) |
 | [xfted](xfted) |
+| [xftvi](xftvi) |
 | [xftvim](xftvim) |
 | [xftnvim](xftnvim) |
 | [xftlvim](xftlvim) |

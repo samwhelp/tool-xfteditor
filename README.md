@@ -22,6 +22,7 @@
 | --- | --- |
 | [xftt](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftt) | 開啟新Tab，切換到指定資料夾 |
 | [xfted](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xfted) | 根據「EDITOR」的設定 |
+| [xftvim](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftvim) | vi |
 | [xftvim](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftvim) | [vim](https://www.vim.org/) |
 | [xftnvim](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftnvim) | [nvim](https://neovim.io/) |
 | [xftlvim](https://samwhelp.github.io/tool-xfteditor/read/project/xfteditor/xftlvim) | [lvim](https://github.com/ChristianChiarulli/LunarVim) |
