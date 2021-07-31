@@ -7,6 +7,7 @@
 | --- |
 | [xftt](prototype/xftt) |
 | [xfted](prototype/xfted) |
+| [xftvi](prototype/xftvi) |
 | [xftvim](prototype/xftvim) |
 | [xftnvim](prototype/xftnvim) |
 | [xftlvim](prototype/xftlvim) |
