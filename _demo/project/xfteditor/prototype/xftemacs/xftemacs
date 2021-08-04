@@ -48,7 +48,7 @@ xftemacs_main () {
 	fi
 
 
-	file_path="$(realpath "$target_path")"
+	file_path="$(realpath -s "$target_path")"
 
 	# if [ -d "$file_path" ]; then
 	#
