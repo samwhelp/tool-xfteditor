@@ -4,6 +4,10 @@
 * [tool-xfteditor](https://samwhelp.github.io/tool-xfteditor/) ([GitHub](https://github.com/samwhelp/tool-xfteditor))
 
 
+## 類比專案
+
+* [opset-wallpaper](https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/)
+
 ## samwhelp
 
 * [個人筆記](https://samwhelp.github.io/book/)
